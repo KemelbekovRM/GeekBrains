@@ -10,7 +10,7 @@ print('Значение 2 = ', znach_2)
 znach_3 = int(input('Введите число целое число: '))
 znach_4 = str(input('Введите любое слово: '))
 print('Вы ввели число- ', znach_3," и слово - ", znach_4)
-print(znach_1)
+print(znach_2)
 
 
 
